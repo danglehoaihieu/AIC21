@@ -1,0 +1,4 @@
+vid_name	fps	frame_num
+cam_2.mp4	10/1	18000
+
+
