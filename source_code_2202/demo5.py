@@ -46,6 +46,8 @@ id_path = '../Dataset_A/list_video_id.txt'
 zones_path = '../ROIs'
 video_path = '../Dataset_A'
 result_path = './submission_output'
+
+# fslàksdjfljs k f;lsdk;lfklsd
 #datasetA_path = os.path.join(data_path, 'Dataset_A')
 #video_path = os.path.join(datasetA_path, 'video')
 #video_path = os.path.join(datasetA_path, 'short_video')
